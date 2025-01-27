@@ -30,6 +30,7 @@ function exibirNome(){
     }
 
 }
+
 function sortearAmigo() {
 
     if(amigos == ""){
