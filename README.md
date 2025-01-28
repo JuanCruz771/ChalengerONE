@@ -1,4 +1,8 @@
+# Challenger ONE Oracle/Alura
 
+## Objetivo
+
+Esse projeto é de um desafio feito pela Alura juntamente com a Oracle, ele consiste em fazer a parte lógica de um site onde é possivel criar uma lista com nomes e sortear um desses nomes para ser o seu amigo secreto.
 ## Funções
 
 ###  adicionarAmigo()
